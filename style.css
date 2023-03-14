@@ -1,0 +1,50 @@
+#img-slide{
+    max-height: 700px;
+    border-radius: 25px;
+
+}
+
+div#profile{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div#educ{
+    margin: 20px 5px;
+    align-items: end;
+    
+}
+
+div#exp{
+    margin: 20px;
+    align-items: start;
+}
+
+div#hys{
+    margin: 20px;
+    padding: 10px;
+}
+
+#img-hys{
+    max-width: 600px;
+    max-height: 400px;
+}
+
+#img-bootstrap{
+    max-height: 383px;
+}
+
+#img-ap{
+    max-width: 300px;
+    max-height: 80px;
+}
+
+.nav-item{
+    padding-left: 20px;
+}
+
+#redes{
+    display: inline;
+}
